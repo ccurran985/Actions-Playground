@@ -34,7 +34,7 @@ jobs:
           echo Build tools?
           mvn --version
           gradle --version 
-          ant --version
+          ant -version
           echo
           
           echo Who is running this script?
